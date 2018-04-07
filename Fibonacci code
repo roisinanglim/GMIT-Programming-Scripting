@@ -1,6 +1,6 @@
   
 # Roisin Anglim
-# Amended from - https://github.com/ianmcloughlin/python-fib/blob/master/fibname.py
+# Amended from - https://github.com/ianmcloughlin/python-fib/blob/master/fib.py
 # Topic #1 - A program that displays Fibonacci numbers. 
 # My name is Róisín, so the first and last letter of my name (R + N = 18 + 14) give the number  32. The 32nd Fibonacci number is 2,178,309.
 
@@ -39,7 +39,7 @@ ans = fib(RN)
 print("Fibonacci number", RN, "is", ans)
 
 
- # Roisin Anglim
+# Roisin Anglim Feb-2018
 # Amended from - https://github.com/ianmcloughlin/python-fib/blob/master/fibname.py 
 # Topic # 2 - 
 
