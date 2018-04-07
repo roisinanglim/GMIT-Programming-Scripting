@@ -10,7 +10,7 @@
 
 
 ## Topic #3 - Collatz Conjecture 
-  ===============================
+  -------------------------------
 
 ### About Collatz 
 ![Collatz](Lothar_Collatz.jpg)
