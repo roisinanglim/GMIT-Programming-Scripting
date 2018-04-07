@@ -16,6 +16,10 @@
  
 In mathematics, the Fibonacci numbers are the numbers in the following integer sequence, called the Fibonacci sequence, and characterized by the fact that every number after the first two is the sum of the two preceding ones. 
 
+### About ASCII Code 
+ASCII stands for American Standard Code for Information Interchange. Computers can only understand numbers, so an ASCII code is the numerical representation of a character. 
+
+### References
 1. [Fibonacci Code Wiki](https://en.wikipedia.org/wiki/Fibonacci_number)
 2. [ASCII Numbers Tables](http://www.asciitable.com/)
 --------------------------------------
