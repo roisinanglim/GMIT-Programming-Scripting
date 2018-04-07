@@ -42,5 +42,17 @@ This is an unsolved matamatical problem. It starts with any positive integer and
 
 ### References  
 1. [Collatz Conjecture Wiki](https://en.wikipedia.org/wiki/Collatz_conjecture)
-2. [Collatz Graph](https://www.jasondavies.com/collatz-graph/)
+2. [Collatz Graph](https://www.jasondavies.com/collatz-graph/) 
+
+--------------------------------
+## Topic #4 - Problem Euler No.5
+-------------------------------- 
+
+### About Smallest Multiple
+2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
+What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20? 
+
+Steps
+* Eliminate any 
+1. [Euclids algoritm](https://blog.dreamshire.com/project-euler-5-solution)
 
