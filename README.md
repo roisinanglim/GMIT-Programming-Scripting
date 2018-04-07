@@ -54,5 +54,5 @@ What is the smallest positive number that is evenly divisible by all of the numb
 
 Steps
 * Eliminate any 
-1. [Euclids algoritm](https://blog.dreamshire.com/project-euler-5-solution)
+1. [Euclids algoritm](https://en.wikipedia.org/wiki/Euclidean_algorithm)
 
