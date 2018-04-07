@@ -40,7 +40,8 @@ print("Fibonacci number", RN, "is", ans)
 
 
 # Roisin Anglim Feb-2018
-# Amended from - https://github.com/ianmcloughlin/python-fib/blob/master/fibname.py 
+# Amended from - https://github.com/ianmcloughlin/python-fib/blob/master/fibname.py  
+
 # Topic # 2 - 
 
 def fib(n):
@@ -72,6 +73,8 @@ name = "Anglim"
 first = name[0]
 
 last = name[-1]
+
+# Ord() function - Given a character, converts it into a corresponding ASCII (American Standard Code for Information Interchange) value.
 
 firstno = ord(first)
 
