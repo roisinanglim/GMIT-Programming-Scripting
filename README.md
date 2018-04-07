@@ -12,7 +12,12 @@
 ------------------------------------
 ## Topic #1 & #2 - Fibonnacci Code 
 -----------------------------------
+### About Fibonacci Code 
+ 
+In mathematics, the Fibonacci numbers are the numbers in the following integer sequence, called the Fibonacci sequence, and characterized by the fact that every number after the first two is the sum of the two preceding ones. 
 
+1. [Fibonacci Code Wiki](https://en.wikipedia.org/wiki/Fibonacci_number)
+2. [ASCII Numbers Tables](http://www.asciitable.com/)
 --------------------------------------
 ## Topic #3 - Collatz Conjecture 
 ----------------------------------
