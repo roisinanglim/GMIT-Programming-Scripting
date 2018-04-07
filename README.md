@@ -9,8 +9,7 @@
 |Topic #4  | Project Euler problem 5 | 
 |Topic #5  | Reads Iris data set     | 
 
-------------------------------------
-## (1)  
+------------------------------------ 
 ## Topic #1 & #2 - Fibonnacci Code
 -----------------------------------
 ### About Fibonacci Code 
