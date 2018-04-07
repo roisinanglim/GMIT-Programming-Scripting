@@ -1,5 +1,5 @@
-GMIT-Programming-Scripting-
-Includes course excercises 
+# GMIT-Programming-Scripting-
+## Includes course excercises 
 
 |Excercise |  Code Name              |Description 
 |----------|:-----------------------:|:--------------------------------------------------------------------------------------|
@@ -9,15 +9,15 @@ Includes course excercises
 |Topic #5  | Reads Iris data set     | 
 
 
-# Topic #3 - Collatz Conjecture 
+## Topic #3 - Collatz Conjecture 
   ===============================
 
-## About Collatz 
+### About Collatz 
 ![Collatz](Lothar_Collatz.jpg)
 
 Collatz was a German mathematician born in Arnsberg in 1930 and died in 1990 in Bulgaria. 
 
-## About Collatz Conjecture 
+### About Collatz Conjecture 
 This is an unsolved matamatical problem. It starts with any positive integer and always ends with 1. 
 
 * Take any positive integer, n.
@@ -27,7 +27,7 @@ This is an unsolved matamatical problem. It starts with any positive integer and
 
 
 
-## References  
+### References  
 1. [Collatz Conjecture Wiki](https://en.wikipedia.org/wiki/Collatz_conjecture)
 2. [Collatz Graph](https://www.jasondavies.com/collatz-graph/)
 
