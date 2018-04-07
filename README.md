@@ -13,7 +13,6 @@
 ----------------------------------
 
 ### About Collatz 
-![Collatz](Collatz.jpg)
 
 Collatz was a German mathematician born in Arnsberg in 1930 and died in 1990 in Bulgaria. 
 
