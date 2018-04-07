@@ -1,8 +1,8 @@
 # GMIT-Programming-Scripting-
 ## Includes course excercises 
 
-|Excercise |  Code Name              |Description 
-|----------|:-----------------------:|:--------------------------------------------------------------------------------------|
+|Excercise |  Code Name               |Description 
+|----------|:-------------------------|:--------------------------------------------------------------------------------------|
 |Topic 1 |[Fibonacci code](#fibonacci-code)| A-Z = Number (1 -26).Subtotal the first and last initials of your name & edit the code to return the fibonacci value| 
 |Topic 2  |[Fibonacci Code](#fibonacci-code)| This code converts the initials of your surname into the ASCII number and based on the ASCII number, then converts it into the fibonacci number.Edit the code to add your surname.          
 |Topic 3  |[Collatz Conjecture](#collatz-conjecture)| This code always returns the value 1.Starting with any positive number, it prints the numbers until it returns to 1.
