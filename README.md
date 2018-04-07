@@ -10,7 +10,7 @@
 |Topic #5  | Reads Iris data set     | 
 
 ------------------------------------ 
-## Topic #1 & #2 - Fibonnacci Code
+## [1] Topic #1 & #2 - Fibonnacci Code
 -----------------------------------
 ### About Fibonacci Code 
  
