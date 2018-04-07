@@ -8,9 +8,9 @@
 |Topic #4  | Project Euler problem 5 | 
 |Topic #5  | Reads Iris data set     | 
 
-
+--------------------------------------
 ## Topic #3 - Collatz Conjecture 
-  -------------------------------
+----------------------------------
 
 ### About Collatz 
 ![Collatz](Lothar_Collatz.jpg)
