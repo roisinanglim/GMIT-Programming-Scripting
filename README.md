@@ -1,7 +1,7 @@
 # GMIT-Programming-Scripting-
 Includes course excercises 
 
-|Excercise |  Code File Name |        Description                                                                    | 
+|Excercise |  Code File Name |Description----------------------------------------------------------------------------| 
 |----------|:---------------:|--------------------------------------------------------------------------------------:|
 |Topic #1  |Fibonacci code   | Edit code to add you name, this return fibonacci number linked to 1st and last initial| 
 |Topic #2  |Fibonacci Code  |                                                                                       |
