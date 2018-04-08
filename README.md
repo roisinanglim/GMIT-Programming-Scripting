@@ -1,5 +1,5 @@
 # GMIT-Programming-Scripting
-## Includes course excercises 
+## Includes course excercises & topic information
 
 |Excercise |Code Name                                         |Description                                           |                   
 |---------:|:-------------------------------------------------|:-----------------------------------------------------|
