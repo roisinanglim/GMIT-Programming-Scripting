@@ -1,4 +1,4 @@
-# GMIT-Programming-Scripting-
+# GMIT-Programming-Scripting
 ## Includes course excercises 
 
 |Excercise |Code Name                                         |Description                                           |                   
