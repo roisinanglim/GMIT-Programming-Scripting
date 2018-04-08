@@ -48,9 +48,9 @@ This is an unsolved matamatical problem. It starts with any positive integer and
 ## Problem Euler No.5
 -------------------------------- 
 
-### About Smallest Multiple
+### Problem 
 2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
-What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20? 
+What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?  
 
 1. [Euclids algoritm](https://en.wikipedia.org/wiki/Euclidean_algorithm) 
 2. [Python LCM](https://www.programiz.com/python-programming/examples/lcm)
