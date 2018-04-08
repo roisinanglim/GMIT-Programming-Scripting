@@ -6,7 +6,7 @@
 |Topic 1   |[Fibonacci code](#fibonacci-code)                 | A-Z = Number (1 -26).Subtotal the first and last initials of your name & edit the code to return the fibonacci value| 
 |Topic 2   |[Fibonacci Code](#fibonacci-code)                 | This code converts the initials of your surname into the ASCII number and based on the ASCII number, then converts it into the fibonacci number.Edit the code to add your surname.          
 |Topic 3  |[Collatz Conjecture](#collatz-conjecture)          | This code always returns the value 1.Starting with any positive number, it prints the numbers until it returns to 1.
-|Topic 4  | [Project Euler problem 5](#problem-euler-no5)     | 
+|Topic 4  | [Project Euler problem 5](#problem-euler-no5)     | This code prints the smallest multiple divisable by 1-20, knowing theat the lowest common multiple of 1-10 is 2520.
 |Topic 5  | Reads Iris data set                               | 
 
 ------------------------------------ 
@@ -52,7 +52,5 @@ This is an unsolved matamatical problem. It starts with any positive integer and
 2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
 What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20? 
 
-Steps
-* Eliminate any 
 1. [Euclids algoritm](https://en.wikipedia.org/wiki/Euclidean_algorithm)
 
