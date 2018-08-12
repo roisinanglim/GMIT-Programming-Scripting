@@ -1,4 +1,4 @@
-#Roisin Anglim 11-02-18 
+# vgv Roisin Anglim 11-02-18 
 
 #Collatz : If even number divide by 2, if uneven multiply by 3 + 1
 

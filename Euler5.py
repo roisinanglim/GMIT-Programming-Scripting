@@ -1,4 +1,4 @@
-#Roisin Anglim 08-04-18 
+#mhn Roisin Anglim 08-04-18 
 #Identify smallest number divided by 1-20 without and remainder 
 # Python Program to find the L.C.M. of two input number
 
